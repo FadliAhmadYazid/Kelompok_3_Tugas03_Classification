@@ -98,13 +98,6 @@ Library utama yang digunakan dalam proyek ini:
 └── README.md                          # Dokumentasi proyek
 ```
 
-## Kelompok XYZ
-**Anggota Kelompok:**
-1. Nama Mahasiswa 1 (NPM)
-2. Nama Mahasiswa 2 (NPM)
-3. Nama Mahasiswa 3 (NPM)
-4. Nama Mahasiswa 4 (NPM)
-
 ## Cara Menggunakan
 
 ### Opsi 1: Menggunakan GitHub
