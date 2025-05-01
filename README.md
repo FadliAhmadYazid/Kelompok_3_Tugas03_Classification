@@ -95,6 +95,8 @@ Library utama yang digunakan dalam proyek ini:
 /
 ├── Notebook_Tugas03.ipynb             # Notebook utama dengan analisis lengkap
 ├── diabetes_prediction_dataset.csv    # Dataset diabetes
+├── Slide_Tugas03.pdf                  # Slide PPT
+├── Laporan_Tugas03.pdf                # Laporan proyek
 └── README.md                          # Dokumentasi proyek
 ```
 
